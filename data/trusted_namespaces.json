@@ -1,0 +1,17 @@
+{
+  "io.github.anthropic": 10,
+  "io.github.modelcontextprotocol": 10,
+  "io.github.github": 10,
+  "io.github.microsoft": 9,
+  "io.github.cloudflare": 9,
+  "com.stripe": 9,
+  "com.figma": 9,
+  "io.github.block": 8,
+  "io.github.pulsemcp": 8,
+  "io.github.apify": 8,
+  "io.github.elastic": 8,
+  "io.github.notionhq": 9,
+  "io.github.sentry": 8,
+  "io.github.atlassian": 8,
+  "io.github.linear": 8
+}
